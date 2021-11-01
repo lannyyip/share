@@ -1,0 +1,109 @@
+TRT-8001-EntropyCalibration2
+input0: 3c010a14
+101: 3c010a14
+102: 3a4e2179
+103: 3ac99f23
+106: 3d62c66d
+(Unnamed Layer* 37) [Constant]_output: 3ac2aae6
+(Unnamed Layer* 38) [Shuffle]_output: 3ac2aae6
+108: 3d3027d1
+109: 3e057118
+112: 3d844e19
+113: 3d7958db
+(Unnamed Layer* 43) [Constant]_output: 3b1a5e2b
+(Unnamed Layer* 44) [Shuffle]_output: 3b1a5e2b
+115: 3d81d022
+116: 3d6ef317
+117: 3dd7a6f3
+120: 3d7c004a
+(Unnamed Layer* 49) [Constant]_output: 3ac9e492
+(Unnamed Layer* 50) [Shuffle]_output: 3ac9e492
+122: 3d422bb9
+123: 3da2a7bb
+126: 3d706457
+127: 3d95212e
+(Unnamed Layer* 55) [Constant]_output: 3b129e1f
+(Unnamed Layer* 56) [Shuffle]_output: 3b129e1f
+129: 3d812c8e
+130: 3d899de6
+131: 3dfb8015
+134: 3d5ec729
+(Unnamed Layer* 61) [Constant]_output: 39c34b08
+(Unnamed Layer* 62) [Shuffle]_output: 39c34b08
+136: 3d164045
+137: 3dbb1e49
+140: 3d57fab2
+141: 3dc1c139
+(Unnamed Layer* 67) [Constant]_output: 3aa6649f
+(Unnamed Layer* 68) [Shuffle]_output: 3aa6649f
+143: 3dbcbfd7
+144: 3db0883a
+145: 3ddd1b5e
+148: 3d632835
+(Unnamed Layer* 73) [Constant]_output: 3aa0d6bc
+(Unnamed Layer* 74) [Shuffle]_output: 3aa0d6bc
+150: 3d1d4065
+151: 3d0d3847
+154: 3d60e8e7
+155: 3dd4b035
+(Unnamed Layer* 79) [Constant]_output: 3ac62850
+(Unnamed Layer* 80) [Shuffle]_output: 3ac62850
+157: 3dbcbfd7
+162: 3dbcbfd7
+163: 3dbcbfd7
+164: 3cf422f0
+165: 3e1c6ac8
+168: 3d57b4ce
+(Unnamed Layer* 87) [Constant]_output: 3a333532
+(Unnamed Layer* 88) [Shuffle]_output: 3a333532
+170: 3d18721b
+171: 3d654b77
+174: 3d4f7d10
+175: 3d6da8a3
+(Unnamed Layer* 93) [Constant]_output: 3aed59e3
+(Unnamed Layer* 94) [Shuffle]_output: 3aed59e3
+177: 3d4fd839
+182: 3d812c8e
+183: 3d812c8e
+184: 3d3e7476
+185: 3e35400c
+188: 3d6b7768
+(Unnamed Layer* 101) [Constant]_output: 39a8663a
+(Unnamed Layer* 102) [Shuffle]_output: 39a8663a
+190: 3d0d4e23
+191: 3e03ed14
+194: 3d561303
+195: 3da438e9
+(Unnamed Layer* 107) [Constant]_output: 3affe8f1
+(Unnamed Layer* 108) [Shuffle]_output: 3affe8f1
+197: 3d959ddd
+202: 3d81d022
+203: 3d81d022
+204: 3dc96957
+205: 3e701c89
+208: 3d832cae
+(Unnamed Layer* 115) [Constant]_output: 3b186ac3
+(Unnamed Layer* 116) [Shuffle]_output: 3b186ac3
+210: 3d592039
+211: 3e099685
+214: 3d83b200
+215: 3dd522a6
+(Unnamed Layer* 121) [Constant]_output: 3b799108
+(Unnamed Layer* 122) [Shuffle]_output: 3b799108
+217: 3dd522a6
+218: 3e8798bc
+219: 3ebd29fd
+220: 3f323ca1
+223: 3d899c2c
+(Unnamed Layer* 128) [Constant]_output: 3a449ddc
+(Unnamed Layer* 129) [Shuffle]_output: 3a449ddc
+225: 3d286d97
+226: 3d9fbfba
+229: 3d93eedc
+230: 3edb372a
+(Unnamed Layer* 134) [Constant]_output: 3b73c65b
+(Unnamed Layer* 135) [Shuffle]_output: 3b73c65b
+232: 3ecddcbd
+233: 3ee974f4
+234: 3eeb7696
+output0: 3ee385c8
